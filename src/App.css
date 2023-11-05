@@ -1,0 +1,11 @@
+.main-container{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+}
+.main-div{
+  display: flex;
+  flex-direction: column;
+  place-items: center;
+}
